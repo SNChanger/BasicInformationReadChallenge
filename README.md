@@ -1,0 +1,2 @@
+# BasicInformationReadChallenge
+IPAのセキュリティとか資料を読みながら対策を考えてみるリポジトリです。
